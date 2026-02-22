@@ -45,7 +45,7 @@ Repo: [QuizMathGame](https://github.com/codekrustyy/QuizMathGame)
 ### 📫 Let's Connect / Collab
 - 💬 DM me here or on GitHub discussions/issues
 - 🤝 Open to: Feedback on my games, pair-programming ideas, or contributing to small projects
-- 📧 Email: jancarlopasca@gmail.com
+- 📧 Email: jancarlopasca21@gmail.com
 - 🌐 More:
 
 Thanks for stopping by! Stars, forks, or just playing the game means a lot. Keep building, stay krusty! 🚀💻
