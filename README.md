@@ -27,20 +27,29 @@
 
 ### 📊 GitHub Stats
 
+My activity so far (as of Feb 2026):
+- **Total contributions**: 13 (commits, issues, PRs, etc.)
+- **Current streak**: 1 day 🔥
+- **Longest streak**: 1 day
+- **Started strong**: Feb 20 – Present
+
+<!-- Reliable streak card (this one works consistently) -->
 <p align="center">
-  <!-- Main stats - using a stable community fork -->
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=CodeKrustyy&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="CodeKrustyy's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeKrustyy&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="GitHub Streak" />
 </p>
 
+<!-- GitHub's built-in contribution graph (no external API needed) -->
 <p align="center">
-  <!-- Streak - already working, but updated URL for consistency -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=CodeKrustyy&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeKrustyy&theme=dracula&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <!-- Top Languages - same fork -->
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=CodeKrustyy&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+Top languages right now (mostly frontend vibes):
+- JavaScript
+- HTML
+- CSS
+- Starting Python/Flask soon!
+
+(Stats update as you commit more – keep pushing daily for that streak! 💪)
 
 ### 🔥 Featured Project
 **Math Cosmos | Ultimate Math Challenge**  
