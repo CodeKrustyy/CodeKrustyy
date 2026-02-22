@@ -26,15 +26,19 @@
 </p>
 
 ### 📊 GitHub Stats
+
 <p align="center">
+  <!-- Main stats - using a stable community fork -->
   <img src="https://github-readme-stats-eight.vercel.app/api?username=CodeKrustyy&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="CodeKrustyy's GitHub Stats" />
 </p>
 
 <p align="center">
+  <!-- Streak - already working, but updated URL for consistency -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=CodeKrustyy&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <!-- Top Languages - same fork -->
   <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=CodeKrustyy&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
