@@ -49,8 +49,9 @@ A dark-themed math quiz game with streaks, timer pressure, confetti wins, and tw
 👉 **[Play it live here!](https://codekrustyy.github.io/QuizMathGame/index.html)**  
 Repo: [QuizMathGame](https://github.com/CodeKrustyy/QuizMathGame)
 
-(Add a screenshot later: upload `math-cosmos-screenshot.png` to this repo and insert:  
-![Math Cosmos Gameplay](math-cosmos-screenshot.png))
+![Math Cosmos Gameplay](<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/f0f02eff-1b29-429e-b4a3-b8a7564a8fa1" />
+<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/f0f02eff-1b29-429e-b4a3-b8a7564a8fa1" />
+))
 
 ### 📫 Let's Connect / Collab
 - 💬 DM me here or on GitHub discussions/issues
